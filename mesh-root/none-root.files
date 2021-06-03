@@ -1,0 +1,9 @@
+Makefile
+README.md
+main/Kconfig.projbuild
+main/component.mk
+main/get_started.c
+partitions.csv
+sdkconfig
+sdkconfig.defaults
+sdkconfig.old
